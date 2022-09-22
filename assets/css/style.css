@@ -1,0 +1,84 @@
+/*  font-family: 'Cabin', sans-serif;
+    font-family: 'Lobster', cursive;
+    Weight:
+● Cabin Regular (400)
+● Cabin Bold (700)
+● Lobster Regular (400)
+Colores
+● #373a3c
+● #dddddd
+● #000 o var(--black)
+● #fff o var(--white)
+● #dc3545 o var(--danger)
+ */
+
+h2 {
+  border-bottom: 2px solid black;
+}
+
+/* h3{
+  text-decoration: underline;
+} */
+
+.lobster400 {
+  font-family: 'Lobster', cursive;
+  font-weight: 400;
+}
+
+.cabin400 {
+  font-family: 'Cabin', sans-serif;
+  font-weight: 400;
+}
+
+.cabin700 {
+  font-family: 'Cabin', sans-serif;
+  font-weight: 700;
+}
+
+.logo {
+  font-size: 3rem;
+}
+
+.btn-style {
+  border-color: #212529;
+}
+
+.cabin400 {
+  font-family: 'Cabin', sans-serif;
+  font-weight: 400;
+}
+
+.cabin700 {
+  font-family: 'Cabin', sans-serif;
+  font-weight: 700;
+}
+
+.no-margin {
+  line-height: 8px;
+}
+
+.black-line {
+  border-top: 2px solid black;
+  border-bottom: 2px solid black;
+}
+
+.title-recipes {
+  font-size: 2rem;
+}
+
+.bg-danger {
+  background-color: #DC3545;
+  color: #FFFFFF;
+}
+
+.bg-footer {
+  background-color: #373A3C;
+  color: #FFFFFF;
+  font-family: 'Lobster', cursive;
+  font-weight: 400;
+  font-size: 2rem;
+}
+
+.red-text {
+  color: #FF0000;
+}
